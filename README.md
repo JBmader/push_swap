@@ -37,8 +37,6 @@ Exemple d'utilisation pour trier une liste de nombres :
 Mon algorithme s'inspire de l'article suivant pour l'optimisation des mouvements à effectuer lors du tri sur les piles de grande taille :  
 [Push Swap: The Least Amount of Moves with Two Stacks](https://medium.com/@jamierobertdawson/push-swap-the-least-amount-of-moves-with-two-stacks-d1e76a71789a).
 
-Le programme utilise des algorithmes comme le **tri par insertion** pour les petits ensembles et un tri plus complexe adapté pour les grands ensembles de données.
-
 ---
 
 Projet réalisé par JBmader.
